@@ -105,6 +105,7 @@ class TrendverseStore {
                 price: 89.99,
                 description: "High-quality denim jeans with perfect fit and durability.",
                 image: "https://i.pinimg.com/1200x/36/b7/01/36b70127b9901df4efaa232a78c6c031.jpg",
+                badge: "New",
                 rating: 4.5
             },
             {
